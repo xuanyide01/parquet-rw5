@@ -1,0 +1,22 @@
+{
+  "file": "com.codex.parquet.rw5.debug.0.1.5.rpk",
+  "version": "0.1.5",
+  "bytes": 9898785,
+  "expandedBytes": 11845787,
+  "entries": 2112,
+  "sha256": "9e70d0d63ca52a53b347ec47f6a3a66f37103bbe700ff68e34df0c7bf0bd27c9",
+  "certificateSha256": "4e8e1ee24968b0dad6d0956a7e14d848b38b22a203f39c389a45d8737bdc4585",
+  "zipCRCValid": true,
+  "outerSignatureValid": true,
+  "innerSignatureValid": true,
+  "allFileDigestsValid": true,
+  "signedFiles": 1994,
+  "result": "passed",
+  "watchManifestPresentAndCorrect": true,
+  "decodedImages": 1553,
+  "allCommonResourcesMatchSource": true,
+  "circularRGBAIcon": true,
+  "textFontCoverageValid": true,
+  "originalNonprintingObjectMarkers": 1,
+  "physicalDeviceTested": false
+}

@@ -1,0 +1,12 @@
+{
+  "result": "passed",
+  "version": "0.1.5",
+  "reportedBy": "user",
+  "feedback": "测试通过，上传github",
+  "date": "2026-10-30",
+  "target": "REDMI Watch 5",
+  "packageBytes": 9898785,
+  "packageSha256": "9e70d0d63ca52a53b347ec47f6a3a66f37103bbe700ff68e34df0c7bf0bd27c9",
+  "source": "user acceptance feedback; automated emulator coverage is documented separately",
+  "fullPlaythroughClaimed": false
+}

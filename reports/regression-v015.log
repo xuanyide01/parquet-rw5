@@ -1,0 +1,39 @@
+✔ menu pauses auto, three speeds wait after text, and new sentences type at 30 ms (4.0713ms)
+✔ actual after-story choice waits indefinitely, then resumes on the selected branch (2.4273ms)
+✔ background/menu/scroll pause, stale callbacks cannot advance, and fresh tap still advances (1.9797ms)
+✔ save/load pages pause autoplay and restore a real pending choice in slot 30 (2.8697ms)
+✔ speed persists but automatic playback is off at every restart; title/end/error/exit cancel timers (3.5624ms)
+✔ canceled pending reads cannot resurrect a game behind title (1.8814ms)
+✔ actual original chapter tags fix the prologue/CHAPTER 1 display sequence (5.3618ms)
+✔ all original text frames have an original chapter name and old saves have a correct fallback (6.3365ms)
+✔ normal standing portraits use the same facial scale in single/multi and normal/Another View scenes (6.9455ms)
+✔ reported missing-face frame and every expression use complete portrait canvases (8.3666ms)
+✔ whole-canvas expression dimensions follow the body during multi-character changes (1.9293ms)
+✔ all 11,098 original Chinese records survive conversion and all cross-scene edges resolve (16.256ms)
+✔ real original entry points and both after-story branches reach their own endings (45.9828ms)
+✔ safe chapter skip stops at the next original chart group and never passes either pending choice (156.1061ms)
+✔ 30 independent save slots preserve pending choices, expression state and scene targets (1.2809ms)
+✔ chapter preview cannot unlock AFTER STORY; normal START follows original side then main sequence (4.4466ms)
+✔ first-page route/chapter transitions use distinct keyed rows, and patches follow their body (4.7914ms)
+✔ 37 gallery groups hold all 367 original variants with no unresolved assets (82.9159ms)
+✔ the reported Another View scene restores the original cabaret instead of a UI bar (0.7563ms)
+✔ all 695 Another View records retain scene art and every original CG is available (1.4288ms)
+✔ Aika call enters the original dark cut-in, changes expression and clears it at scene transitions (0.1745ms)
+✔ view and call layout change per frame, reserve banner space and survive old-state restore (3.4015ms)
+✔ view banner keeps standing art attached to dialogue, and every cut-in file exists (8.8929ms)
+✔ original three-background rules: main clear alone does not unlock either ending image (1.0532ms)
+✔ locked backgrounds conceal their thumbnails and cannot be selected or persisted (2.0599ms)
+✔ unlocked selections persist through app restart and entering/leaving actual gameplay (8.3657ms)
+✔ old v0.1.0 settings migrate to default; invalid or locked persisted selections render default safely (9.2764ms)
+✔ only the matching normally completed AFTER STORY unlocks its image; chapter preview cannot unlock (2.0911ms)
+✔ System from the reading grid pauses autoplay and returns to the same menu/cursor (1.4768ms)
+✔ completion switches the matching background again on replay and manual choices remain after restart (2.1718ms)
+✔ background cards recreate selected rows immediately and feedback identifies the selected image (1.0771ms)
+ℹ tests 31
+ℹ suites 0
+ℹ pass 31
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 434.893

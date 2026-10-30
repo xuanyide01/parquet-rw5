@@ -1,0 +1,5659 @@
+{
+  "result": "passed",
+  "version": "0.1.5",
+  "staticRequests": 403,
+  "beforeBytes": 5035910,
+  "afterBytes": 3920075,
+  "source": "original full-resolution PNG/PIMG layers, not previously compressed JPEG",
+  "maxSize": [
+    320,
+    216
+  ],
+  "jpegQuality": 62,
+  "portraitsAndCutinsUnchanged": true,
+  "allImagesKeepOriginalAspect": true,
+  "rows": [
+    {
+      "id": "a0",
+      "source": "空_青空",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 3940,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1",
+      "source": "特殊_ビル",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 12182,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a3",
+      "source": "item_bmi",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 4887,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a7",
+      "source": "特殊_謎の部屋a",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 7365,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a10",
+      "source": "ev901ae",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 3479,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a17",
+      "source": "ev901aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 3500,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a19",
+      "source": "ev901ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 3503,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a20",
+      "source": "ev901ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 3499,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a21",
+      "source": "ev901ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 3505,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a38",
+      "source": "画面_黒",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 673,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a39",
+      "source": "ev902ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 4393,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a40",
+      "source": "ev902aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 4416,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a41",
+      "source": "ev902ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 4410,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a42",
+      "source": "ev902ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 4619,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a43",
+      "source": "ev902ae",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 4392,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a44",
+      "source": "sd101aa",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 11776,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a45",
+      "source": "sd101ab",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 11158,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a46",
+      "source": "モブ_駅前a",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 11041,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a47",
+      "source": "モブ_繁華街c",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 11088,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a48",
+      "source": "item_マックス",
+      "beforeSize": [
+        360,
+        229
+      ],
+      "size": [
+        320,
+        204
+      ],
+      "bytes": 19880,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a49",
+      "source": "回想枠",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 643,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a50",
+      "source": "街_路地裏c",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 8566,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a51",
+      "source": "ev101bb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 6927,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a52",
+      "source": "ev101bc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 6920,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a53",
+      "source": "ev101ba",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 6933,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a54",
+      "source": "ev101bd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 6896,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a55",
+      "source": "空_夜空",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 2679,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a56",
+      "source": "ev101aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7498,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a57",
+      "source": "ev101ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7462,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a64",
+      "source": "街_入り口a",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 11539,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a94",
+      "source": "bar1",
+      "beforeSize": [
+        360,
+        24
+      ],
+      "size": [
+        320,
+        22
+      ],
+      "bytes": 1187,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a99",
+      "source": "街_繁華街a",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 11227,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a100",
+      "source": "街_路地裏a",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 9413,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a101",
+      "source": "ev201ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9500,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a102",
+      "source": "ev201aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9522,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a127",
+      "source": "画面_白",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 643,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a135",
+      "source": "店_カフェ",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 9211,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a162",
+      "source": "sd102aa",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13207,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a163",
+      "source": "sd102ab",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13122,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a164",
+      "source": "sd102ac",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13149,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a165",
+      "source": "sd102ab2",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13122,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a166",
+      "source": "sd102ad",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13149,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a167",
+      "source": "sd102be",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13653,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a168",
+      "source": "sd102ce",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 14366,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a169",
+      "source": "sd102cf",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13582,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a170",
+      "source": "sd102bj",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 12943,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a171",
+      "source": "sd102dg",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13366,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a172",
+      "source": "sd102dl",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13027,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a173",
+      "source": "sd102bi",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 12912,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a174",
+      "source": "sd102bk",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 12762,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a175",
+      "source": "sd102ei",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 12781,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a176",
+      "source": "sd102ek",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 12616,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a184",
+      "source": "空_夕空",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 5723,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a186",
+      "source": "倉庫_リビングb",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 9329,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a194",
+      "source": "倉庫_リビングd",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 7965,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a195",
+      "source": "ev301aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8560,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a196",
+      "source": "ev301ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8557,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a197",
+      "source": "ev301bb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9056,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a198",
+      "source": "ev301cb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8506,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a199",
+      "source": "ev301ca",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8509,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a200",
+      "source": "ev301cc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8515,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a201",
+      "source": "ev301cd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8526,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a202",
+      "source": "ev301ce",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8515,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a203",
+      "source": "ev301cg",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8518,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a204",
+      "source": "ev301cf",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8518,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a216",
+      "source": "sd105aa",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 14096,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a217",
+      "source": "sd105ab",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 14141,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a218",
+      "source": "sd105bc",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 12892,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a241",
+      "source": "倉庫_リビングa",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 8915,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a256",
+      "source": "sd109aa",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 12835,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a257",
+      "source": "sd109ba",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 12877,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a258",
+      "source": "sd109bb",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13061,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a259",
+      "source": "sd109ab",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13079,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a260",
+      "source": "sd109cb",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13215,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a261",
+      "source": "sd109ac",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 12907,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a262",
+      "source": "sd109bd",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13971,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a295",
+      "source": "ev202ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11598,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a296",
+      "source": "ev202aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11524,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a297",
+      "source": "ev202ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11542,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a298",
+      "source": "ev202bd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11393,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a299",
+      "source": "ev202bb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11584,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a300",
+      "source": "ev202be",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11396,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a301",
+      "source": "ev202bg",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11551,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a302",
+      "source": "ev202cd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11220,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a303",
+      "source": "ev202ce",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11225,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a304",
+      "source": "ev202de",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11400,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a305",
+      "source": "ev202da",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11502,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a306",
+      "source": "ev202dd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11393,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a307",
+      "source": "ev202df",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11512,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a308",
+      "source": "ev202dc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11514,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a309",
+      "source": "ev202dg",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11548,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a310",
+      "source": "ev202dh",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11463,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a316",
+      "source": "ev205ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9638,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a317",
+      "source": "ev205aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9687,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a318",
+      "source": "ev205ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9620,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a319",
+      "source": "ev205ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9663,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a377",
+      "source": "sd105bb",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 12737,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a384",
+      "source": "モブ_入り口c",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 13014,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a385",
+      "source": "店_花屋d",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 11176,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a386",
+      "source": "ev102ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10259,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a387",
+      "source": "ev102ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10236,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a388",
+      "source": "ev102ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10247,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a389",
+      "source": "ev102aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10268,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a390",
+      "source": "ev102ae",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10270,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a391",
+      "source": "ev102af",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10270,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a392",
+      "source": "ev102bc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10262,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a393",
+      "source": "ev102be",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10280,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a398",
+      "source": "sd103aa",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 14856,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a399",
+      "source": "sd103ab",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 14910,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a400",
+      "source": "sd103ac",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 14939,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a439",
+      "source": "sd104aa",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 15944,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a440",
+      "source": "sd104ab",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 15871,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a441",
+      "source": "sd104bc",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 15570,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a442",
+      "source": "sd104bd",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 15739,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a443",
+      "source": "sd104cd",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 15835,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a444",
+      "source": "sd104dd",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 15713,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a445",
+      "source": "sd104ac",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 15842,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a449",
+      "source": "item_犬a",
+      "beforeSize": [
+        360,
+        229
+      ],
+      "size": [
+        320,
+        204
+      ],
+      "bytes": 4782,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a451",
+      "source": "item_犬b",
+      "beforeSize": [
+        360,
+        229
+      ],
+      "size": [
+        320,
+        204
+      ],
+      "bytes": 4778,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a462",
+      "source": "特殊_キャバクラ",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 7482,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a561",
+      "source": "ev103ba",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8795,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a562",
+      "source": "ev103bb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8815,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a563",
+      "source": "ev103ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8822,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a564",
+      "source": "ev103aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8801,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a565",
+      "source": "ev103ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8815,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a566",
+      "source": "ev103ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8819,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a567",
+      "source": "ev103ae",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8821,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a568",
+      "source": "ev103af",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8833,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a569",
+      "source": "ev103ag",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8839,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a570",
+      "source": "ev103ah",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8812,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a599",
+      "source": "ev208aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7853,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a600",
+      "source": "ev208ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7769,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a601",
+      "source": "ev208ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7844,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a602",
+      "source": "ev208ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7775,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a609",
+      "source": "ev203ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9982,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a610",
+      "source": "ev203ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9938,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a611",
+      "source": "ev203ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9996,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a612",
+      "source": "ev203ae",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10010,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a613",
+      "source": "ev203aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9992,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a614",
+      "source": "ev203af",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9997,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a643",
+      "source": "sd108aa",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 10340,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a644",
+      "source": "sd108ba",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 9565,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a645",
+      "source": "sd108bb",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 9702,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a646",
+      "source": "sd108cf",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 10455,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a647",
+      "source": "sd108df",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 10323,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a648",
+      "source": "sd108bc",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 9867,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a649",
+      "source": "sd108bd",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 9880,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a650",
+      "source": "sd108ee",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 10367,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a651",
+      "source": "sd108ef",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 9685,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a744",
+      "source": "ev204aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9916,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a745",
+      "source": "ev204ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9957,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a746",
+      "source": "ev204af",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9885,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a747",
+      "source": "ev204ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9914,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a748",
+      "source": "ev204ae",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9968,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a749",
+      "source": "ev204ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9883,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a766",
+      "source": "sd106aa",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 15126,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a767",
+      "source": "sd106ab",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 15333,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a768",
+      "source": "sd106bc",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13122,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a769",
+      "source": "sd106bd",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13183,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a770",
+      "source": "sd106be",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 12781,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a771",
+      "source": "sd106bf",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 12911,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a772",
+      "source": "sd106cf",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13343,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a773",
+      "source": "sd106cg",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13273,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a774",
+      "source": "sd106dh",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 14019,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a775",
+      "source": "sd106ei",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13512,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a810",
+      "source": "sd105cd",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 14887,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a811",
+      "source": "sd105cb",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 14708,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a812",
+      "source": "空_曇空",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 1516,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a816",
+      "source": "モブ_駅前c",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 10826,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a823",
+      "source": "sd107ba",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 17607,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a824",
+      "source": "sd107bb",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 17389,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a825",
+      "source": "sd107bc",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 17544,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a826",
+      "source": "sd107ac",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 17574,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a827",
+      "source": "sd107cc",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 17614,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a828",
+      "source": "sd107cd",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 17440,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a849",
+      "source": "ev104aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7557,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a850",
+      "source": "ev104ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7563,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a851",
+      "source": "ev104ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7556,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a852",
+      "source": "ev104ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7564,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a853",
+      "source": "ev104ae",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7562,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a854",
+      "source": "ev104af",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7561,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a903",
+      "source": "倉庫_部屋d",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 8139,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a914",
+      "source": "ev105aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7342,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a915",
+      "source": "ev105ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7348,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a916",
+      "source": "街_駅前正月",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 7379,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a947",
+      "source": "ev903aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 4870,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a996",
+      "source": "ev106aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8744,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a997",
+      "source": "ev106ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8739,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a998",
+      "source": "ev106ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8741,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a999",
+      "source": "ev106ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8749,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1000",
+      "source": "ev106ag",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8739,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1001",
+      "source": "ev106ae",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8736,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1002",
+      "source": "ev106af",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8748,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1003",
+      "source": "ev106ah",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8739,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1005",
+      "source": "ev106ai",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8759,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1033",
+      "source": "ev206aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8690,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1034",
+      "source": "ev206ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8626,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1035",
+      "source": "ev206ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8589,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1036",
+      "source": "ev206ae",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8704,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1037",
+      "source": "ev206ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8721,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1059",
+      "source": "特殊_工房a",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 10524,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1089",
+      "source": "ev904aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7110,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1102",
+      "source": "ev107ca",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7905,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1103",
+      "source": "ev107cb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7896,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1104",
+      "source": "ev107bb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7858,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1105",
+      "source": "ev107ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7614,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1106",
+      "source": "ev107ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7633,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1107",
+      "source": "ev107ai",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7640,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1108",
+      "source": "ev107bi",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7861,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1109",
+      "source": "ev107ae",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7613,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1110",
+      "source": "ev107ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7606,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1111",
+      "source": "ev107af",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7622,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1112",
+      "source": "ev107ag",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7614,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1113",
+      "source": "ev107ch",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7903,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1114",
+      "source": "倉庫_部屋a",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 9877,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1119",
+      "source": "ev207ba",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9378,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1120",
+      "source": "ev207bb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9371,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1121",
+      "source": "ev207bc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9320,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1122",
+      "source": "ev207bd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9372,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1123",
+      "source": "ev207be",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9341,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1124",
+      "source": "ev207bf",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9375,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1133",
+      "source": "街_入り口c",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 12723,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1135",
+      "source": "ev108aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9568,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1136",
+      "source": "ev108ba",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9577,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1137",
+      "source": "ev108ca",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9616,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1138",
+      "source": "ev108da",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9620,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1148",
+      "source": "特殊_工房オフd",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 10291,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1155",
+      "source": "特殊_工房オフc",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 6853,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1156",
+      "source": "ev905aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 6796,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1157",
+      "source": "ev905ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 6870,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1158",
+      "source": "ev905ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 6809,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1159",
+      "source": "ev905ae",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 6823,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1160",
+      "source": "ev905ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 6852,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1161",
+      "source": "ev905ag",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 6913,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1162",
+      "source": "ev905af",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 6822,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1163",
+      "source": "ev905bc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7197,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1164",
+      "source": "ev905bg",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7264,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1173",
+      "source": "ev302aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10713,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1174",
+      "source": "ev302ea",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10711,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1175",
+      "source": "ev302eb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10719,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1176",
+      "source": "ev302fb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10719,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1177",
+      "source": "ev302fa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10711,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1178",
+      "source": "ev302da",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10705,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1179",
+      "source": "ev302ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10717,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1180",
+      "source": "ev302dc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10703,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1181",
+      "source": "ev302bc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10717,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1182",
+      "source": "ev302bd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10716,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1183",
+      "source": "ev302_aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7049,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1184",
+      "source": "ev302_ba",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7037,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1185",
+      "source": "ev302_bb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7037,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1186",
+      "source": "ev302_bc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 6939,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1188",
+      "source": "ev304aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9544,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1189",
+      "source": "ev304bb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9584,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1190",
+      "source": "ev304ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9579,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1191",
+      "source": "ev304ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9573,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1192",
+      "source": "ev304ba",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9544,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1193",
+      "source": "ev304bc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9568,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1194",
+      "source": "ev304bd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9565,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1195",
+      "source": "ev304be",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9582,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1202",
+      "source": "ev303aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11481,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1203",
+      "source": "ev303ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11488,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1204",
+      "source": "ev303bb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11450,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1205",
+      "source": "ev303bc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11455,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1206",
+      "source": "ev303ba",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11463,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1207",
+      "source": "ev303cb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11466,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1208",
+      "source": "ev303cc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11467,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1209",
+      "source": "ev303ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11479,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1210",
+      "source": "ev303ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11479,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1228",
+      "source": "店_春花屋d",
+      "beforeSize": [
+        360,
+        217
+      ],
+      "size": [
+        320,
+        193
+      ],
+      "bytes": 11178,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1252",
+      "source": "ev109aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8417,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1253",
+      "source": "ev109ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8434,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1254",
+      "source": "ev109ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8423,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1269",
+      "source": "ev304cb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9597,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1275",
+      "source": "ev209aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9914,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1276",
+      "source": "ev209ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9851,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1277",
+      "source": "ev209ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9907,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1278",
+      "source": "ev209ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9856,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1279",
+      "source": "ev209ae",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9906,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1280",
+      "source": "ev209af",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9864,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1291",
+      "source": "ev101ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7494,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1292",
+      "source": "ev101ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7489,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1293",
+      "source": "ev102ag",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10295,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1294",
+      "source": "ev102ba",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10271,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1295",
+      "source": "ev102bb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10256,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1296",
+      "source": "ev102bd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10240,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1297",
+      "source": "ev102bf",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10276,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1298",
+      "source": "ev102bg",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10295,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1299",
+      "source": "ev103bc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8814,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1300",
+      "source": "ev103bd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8824,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1301",
+      "source": "ev103be",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8815,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1302",
+      "source": "ev103bf",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8817,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1303",
+      "source": "ev103bg",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8832,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1304",
+      "source": "ev103bh",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8803,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1305",
+      "source": "ev103_aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 5171,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1306",
+      "source": "ev106_aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 5038,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1307",
+      "source": "ev107aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7648,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1308",
+      "source": "ev107ah",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7651,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1309",
+      "source": "ev107ba",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7875,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1310",
+      "source": "ev107bc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7829,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1311",
+      "source": "ev107bd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7828,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1312",
+      "source": "ev107be",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7827,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1313",
+      "source": "ev107bf",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7851,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1314",
+      "source": "ev107bg",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7836,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1315",
+      "source": "ev107bh",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7869,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1316",
+      "source": "ev107cc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7857,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1317",
+      "source": "ev107cd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7863,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1318",
+      "source": "ev107ce",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7859,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1319",
+      "source": "ev107cf",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7873,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1320",
+      "source": "ev107cg",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7867,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1321",
+      "source": "ev107ci",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7891,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1322",
+      "source": "ev109ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8407,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1323",
+      "source": "ev109_aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 5001,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1324",
+      "source": "ev202ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11416,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1325",
+      "source": "ev202ae",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11421,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1326",
+      "source": "ev202af",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11543,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1327",
+      "source": "ev202ag",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11561,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1328",
+      "source": "ev202ah",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11496,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1329",
+      "source": "ev202ba",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11515,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1330",
+      "source": "ev202bc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11520,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1331",
+      "source": "ev202bf",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11515,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1332",
+      "source": "ev202bh",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11466,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1333",
+      "source": "ev202ca",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11352,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1334",
+      "source": "ev202cb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11377,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1335",
+      "source": "ev202cc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11352,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1336",
+      "source": "ev202cf",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11319,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1337",
+      "source": "ev202cg",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11321,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1338",
+      "source": "ev202ch",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11302,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1339",
+      "source": "ev202db",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11586,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1340",
+      "source": "ev207aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9352,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1341",
+      "source": "ev207ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9349,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1342",
+      "source": "ev207ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9308,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1343",
+      "source": "ev207ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9339,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1344",
+      "source": "ev207ae",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9320,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1345",
+      "source": "ev207af",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9356,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1346",
+      "source": "ev301ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8586,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1347",
+      "source": "ev301ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8606,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1348",
+      "source": "ev301ae",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8603,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1349",
+      "source": "ev301af",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8572,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1350",
+      "source": "ev301ag",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 8591,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1351",
+      "source": "ev301ba",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9052,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1352",
+      "source": "ev301bc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9084,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1353",
+      "source": "ev301bd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9106,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1354",
+      "source": "ev301be",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9100,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1355",
+      "source": "ev301bf",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9065,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1356",
+      "source": "ev301bg",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9100,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1357",
+      "source": "ev302ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10712,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1358",
+      "source": "ev302ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10716,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1359",
+      "source": "ev302ae",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10718,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1360",
+      "source": "ev302af",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10719,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1361",
+      "source": "ev302ag",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10721,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1362",
+      "source": "ev302ba",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10713,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1363",
+      "source": "ev302bb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10712,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1364",
+      "source": "ev302be",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10718,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1365",
+      "source": "ev302bf",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10719,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1366",
+      "source": "ev302bg",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10721,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1367",
+      "source": "ev302ca",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10705,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1368",
+      "source": "ev302cb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10705,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1369",
+      "source": "ev302cc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10706,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1370",
+      "source": "ev302cd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10712,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1371",
+      "source": "ev302ce",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10707,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1372",
+      "source": "ev302cf",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10708,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1373",
+      "source": "ev302cg",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10717,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1374",
+      "source": "ev302db",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10712,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1375",
+      "source": "ev302dd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10714,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1376",
+      "source": "ev302de",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10708,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1377",
+      "source": "ev302df",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10703,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1378",
+      "source": "ev302dg",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10717,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1379",
+      "source": "ev302ec",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10716,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1380",
+      "source": "ev302ed",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10716,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1381",
+      "source": "ev302ee",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10713,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1382",
+      "source": "ev302ef",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10717,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1383",
+      "source": "ev302eg",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10722,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1384",
+      "source": "ev302fc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10716,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1385",
+      "source": "ev302fd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10716,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1386",
+      "source": "ev302fe",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10713,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1387",
+      "source": "ev302ff",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10717,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1388",
+      "source": "ev302fg",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10722,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1389",
+      "source": "ev302ga",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10710,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1390",
+      "source": "ev302gb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10708,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1391",
+      "source": "ev302gc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10698,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1392",
+      "source": "ev302gd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10714,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1393",
+      "source": "ev302ge",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10705,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1394",
+      "source": "ev302gf",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10702,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1395",
+      "source": "ev302gg",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 10717,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1396",
+      "source": "ev302_ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7064,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1397",
+      "source": "ev302_ac",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 6964,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1398",
+      "source": "ev303bd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11467,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1399",
+      "source": "ev303ca",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11464,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1400",
+      "source": "ev303cd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 11478,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1401",
+      "source": "ev304ad",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9559,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1402",
+      "source": "ev304ae",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9583,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1403",
+      "source": "ev304ca",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9568,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1404",
+      "source": "ev304cc",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9587,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1405",
+      "source": "ev304cd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9577,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1406",
+      "source": "ev304ce",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 9592,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1407",
+      "source": "ev904_aa",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 4557,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1408",
+      "source": "ev904_ab",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 4652,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1409",
+      "source": "ev905ba",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7142,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1410",
+      "source": "ev905bb",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7158,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1411",
+      "source": "ev905bd",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7224,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1412",
+      "source": "ev905be",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7162,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1413",
+      "source": "ev905bf",
+      "beforeSize": [
+        360,
+        203
+      ],
+      "size": [
+        320,
+        180
+      ],
+      "bytes": 7166,
+      "originalAspectPreserved": true
+    },
+    {
+      "id": "a1414",
+      "source": "sd102dh",
+      "beforeSize": [
+        360,
+        216
+      ],
+      "size": [
+        320,
+        192
+      ],
+      "bytes": 13443,
+      "originalAspectPreserved": true
+    }
+  ]
+}

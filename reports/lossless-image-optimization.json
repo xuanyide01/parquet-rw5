@@ -1,0 +1,7 @@
+{
+  "result": "passed",
+  "filesReduced": 1023,
+  "bytesRemoved": 203093,
+  "decodedRGBAIdentical": true,
+  "method": "Remove unused palette entries and trailing opaque alpha entries, reorder palette without changing pixels"
+}

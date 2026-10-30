@@ -1,0 +1,4 @@
+{
+  "cause": "QA uninstall exceeded the 30-second client wait; it later completed normally. Production 0.1.5 remained installed and valid.",
+  "resolution": "verified completion and available space before retrying QA installation"
+}

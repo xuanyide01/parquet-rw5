@@ -1,0 +1,16 @@
+{
+  "result": "passed",
+  "version": "0.1.4",
+  "portraits": 1013,
+  "completeCanvasExpressionRequests": 1013,
+  "uniqueBaseOrFallbackFiles": 37,
+  "uniquePortraitFiles": 1023,
+  "portraitBytes": 3199053,
+  "maxOneDecodedPortraitRGBABytes": 275624,
+  "sixLayersRGBAUpperBoundBytes": 1653744,
+  "textChoicesScenePositionsSaveKeysAndGalleryUnchanged": true,
+  "allBackgroundAndCGBytesUnchanged": true,
+  "sourceScaleAndAnchorUnchanged": true,
+  "tinyFaceTexturesUsed": false,
+  "physicalDeviceTested": false
+}

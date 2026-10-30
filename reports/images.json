@@ -1,0 +1,82 @@
+{
+  "requested": 1416,
+  "mapped": 1416,
+  "uniqueFiles": 1423,
+  "bytes": 7119128,
+  "bodyRecipes": 37,
+  "portraitNormalization": {
+    "bitmapHeight": 262,
+    "sourceScale": 0.15,
+    "localFaceCenterY": 64,
+    "method": "same source-pixel scale for every original 3750px canvas; median face anchors align heads; clothing width never changes scale"
+  },
+  "faceReferences": {
+    "愛花a": {
+      "x": 1815.0,
+      "y": 1668.0,
+      "height": 241
+    },
+    "リノa": {
+      "x": 1827.0,
+      "y": 1836.0,
+      "height": 260
+    },
+    "リノb": {
+      "x": 1886.5,
+      "y": 1813.0,
+      "height": 278
+    },
+    "仁香a": {
+      "x": 1851.0,
+      "y": 1756.0,
+      "height": 228.0
+    },
+    "ツバサa": {
+      "x": 1763.5,
+      "y": 1840.5,
+      "height": 299
+    },
+    "ツバサb": {
+      "x": 1797.0,
+      "y": 1827.0,
+      "height": 282
+    },
+    "マスターa": {
+      "x": 1803.0,
+      "y": 1333.0,
+      "height": 306
+    },
+    "橋姫a": {
+      "x": 1796.5,
+      "y": 1672.0,
+      "height": 247
+    },
+    "橋姫b": {
+      "x": 1904.0,
+      "y": 1663.5,
+      "height": 256
+    },
+    "亜弥a": {
+      "x": 1850.0,
+      "y": 1719.0,
+      "height": 231
+    },
+    "阿久a": {
+      "x": 1670.5,
+      "y": 1277.5,
+      "height": 257
+    },
+    "静歌a": {
+      "x": 1817.5,
+      "y": 1766.0,
+      "height": 224.5
+    }
+  },
+  "galleryGroups": 37,
+  "galleryImages": 367,
+  "failures": [],
+  "portraitCrop": "uniform original-canvas pixel scale; 262px body bitmap; bottom aligned",
+  "portraitEncoding": "Original face overlay padded to complete portrait canvas, full faced shared body, source-quality gated palettes",
+  "portraitQualityReport": "portrait-quality-v014/report.json",
+  "staticCompression": "original source, 320x216 bounds, JPEG 62"
+}

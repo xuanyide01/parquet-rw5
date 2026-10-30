@@ -1,0 +1,10 @@
+{
+  "result": "passed",
+  "baselineVersion": "0.1.1",
+  "newVersion": "0.1.2",
+  "allSceneIdsAndOperationIndicesIdentical": true,
+  "allTextAndControlFlowIdentical": true,
+  "changedVisualFrames": 923,
+  "anotherViewTextFrames": 695,
+  "cutInFrames": 340
+}

@@ -1,0 +1,20 @@
+{
+  "result": "passed",
+  "version": "0.1.5",
+  "packageSha256": "9e70d0d63ca52a53b347ec47f6a3a66f37103bbe700ff68e34df0c7bf0bd27c9",
+  "packageBytes": 9898785,
+  "screen": [
+    432,
+    514
+  ],
+  "runtime": "official generic Vela Watch 5.0, 128MB RAM",
+  "physicalDeviceTested": false,
+  "usesDesktopInput": false,
+  "injectedScenesOrSaves": false,
+  "checks": [
+    "final exact package installs and starts",
+    "smaller original logo",
+    "selected background frame and locked-image feedback",
+    "unchanged waiter portrait over compressed original background"
+  ]
+}

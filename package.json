@@ -1,0 +1,10 @@
+{
+  "name": "parquet-rw5",
+  "version": "0.1.5",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "node tools/build.cjs",
+    "test": "node --test tests/reader.test.cjs tests/auto-reader.test.cjs tests/title-background.test.cjs tests/scene-visuals.test.cjs tests/chapter-portrait.test.cjs tests/portrait-encoding.test.cjs"
+  }
+}

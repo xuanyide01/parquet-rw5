@@ -1,0 +1,58 @@
+{
+  "designReference": "PARQUET original PIMG and default.tjs DefaultColors; black/cyan cut corners, no moss-green Stella theme",
+  "sources": [
+    {
+      "file": "title_bg.png",
+      "sha256": "f13fe6993237b8ce75178dbd250f3749bcea2b5ea68ef7a02fee6ea32bc6fa7e",
+      "portraitCrop": [
+        450,
+        0,
+        1358,
+        1080
+      ]
+    },
+    {
+      "file": "title_bg_rin.png",
+      "sha256": "66cfad3309da7f67d5342e210bb23d1ec4351afa54de641fe0ec5e63b8656ad8",
+      "portraitCrop": [
+        750,
+        0,
+        1658,
+        1080
+      ]
+    },
+    {
+      "file": "title_bg_tsu.png",
+      "sha256": "8040d66f94fd1c059f9c440ec53e6e9afe96cbd97c624ecff0fdcf1948eda9b7",
+      "portraitCrop": [
+        380,
+        0,
+        1288,
+        1080
+      ]
+    }
+  ],
+  "colors": {
+    "normalMessage": "0x197e85",
+    "otherPerspective": "0x423d75",
+    "text": "0xffffff"
+  },
+  "titleButtonLayer": "title.pimg / 2092",
+  "englishTitleLabelLayers": [
+    2825,
+    4276,
+    2827,
+    2833,
+    2829,
+    2830,
+    2831,
+    2828
+  ],
+  "messageLayers": [
+    89,
+    107,
+    58,
+    61
+  ],
+  "uiBytes": 281077
+}

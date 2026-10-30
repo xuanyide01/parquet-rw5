@@ -1,0 +1,1 @@
+{"cause":"QA helper used a zero-based persisted slot number; fixed to match slotKey(index)=index+1. No production code or package changed."}

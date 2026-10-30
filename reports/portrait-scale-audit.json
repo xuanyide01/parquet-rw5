@@ -1,0 +1,16 @@
+{
+  "result": "passed",
+  "portraits": 1013,
+  "sourceCanvas": [
+    3750,
+    5313
+  ],
+  "sameSourcePixelScale": 0.1499714,
+  "bitmapHeight": 262,
+  "normalAndAnotherViewBitmapHeightIdentical": true,
+  "singleAndMultiCharacterScaleIdentical": true,
+  "headAnchorYInBitmap": 64,
+  "headAnchorYOnScreen": 88,
+  "bottomYOnScreen": 286,
+  "clothingWidthExcludedFromScale": true
+}
