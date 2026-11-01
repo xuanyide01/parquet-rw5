@@ -1,0 +1,286 @@
+{
+  "archived_at": "2026-11-01",
+  "repository": "xuanyide01/parquet-rw5",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "files": [
+        {
+          "name": "PARQUET-RW5-0.1.0-SHA256.txt",
+          "bytes": 478,
+          "sha256": "53e2c08c8d0bd98b0059b5dcabaee886927d1fdf0cedf387719fb7fad42392f3"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.0-安装说明.md",
+          "bytes": 5749,
+          "sha256": "96352c85af44bf87137b2bea168ddb9a4a7b45ef74ad09a2fafbff49239f1292"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.0-标题预览.png",
+          "bytes": 243026,
+          "sha256": "0834fddb7ee4152e8cafa0d377509147f9cddec304c37954ff070f2cee193f10"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.0-检查报告.json",
+          "bytes": 7474,
+          "sha256": "f569fc1a33ed39a9d759e4ad1cbe1d51bc4878b551188c818336df51fd7905a8"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.0-源码.zip",
+          "bytes": 12025992,
+          "sha256": "3bf008277fceb2c3da03dd97558a65aafa4723133a7515173b54d094f4489601"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.0-立绘预览.png",
+          "bytes": 99384,
+          "sha256": "4d9782c0d112e4ae6a8f3a5962cd92ee2e4390dc33a0ee4a38bbfafc90643389"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.0.bin",
+          "bytes": 8620273,
+          "sha256": "d9793ed0c0b0bf89c18032a466dbefb11dd1486f8efcaeb8d282699ace08c988"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.0.rpk",
+          "bytes": 8620273,
+          "sha256": "d9793ed0c0b0bf89c18032a466dbefb11dd1486f8efcaeb8d282699ace08c988"
+        }
+      ]
+    },
+    {
+      "tag": "v0.1.1",
+      "files": [
+        {
+          "name": "PARQUET-RW5-0.1.1-SHA256.txt",
+          "bytes": 478,
+          "sha256": "85db0ad01d7082d87587caece5d150be7c982e1ac6c40cfdabf0909fed861871"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.1-安装说明.md",
+          "bytes": 6245,
+          "sha256": "545e0194f9a60a45a19bb557ba1b857ae7b6461f000b606f0ba53594b885eb94"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.1-对话预览.png",
+          "bytes": 101623,
+          "sha256": "d63b580bba31695a015846e654831454a76b711c3511da88db948e95a38ec20c"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.1-梨乃标题.png",
+          "bytes": 228009,
+          "sha256": "ff20a4523bb1141a54febc0f7a1651760a939adf48043a7841a9a3ca4dd6cdbf"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.1-检查报告.json",
+          "bytes": 10307,
+          "sha256": "814bd5adbb4fd50ef5334254f82a8c8326908d72ec0ef3a538d72db1a28b6ce6"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.1-源码.zip",
+          "bytes": 14538269,
+          "sha256": "e293c21ea31c4aa1cd0fd38bb438475599ffff7e28b7c96c38fc4b2322bdd559"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.1-翼标题.png",
+          "bytes": 253298,
+          "sha256": "7dc10e214a4a40753125a8c70cb8e1688a092523bac57de9fb737028369e4ef2"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.1-菜单预览.png",
+          "bytes": 28405,
+          "sha256": "56108e719a4cbc1e38a217bdfd5b3f07a201cddda8694f8cf2529d8faa3bfbaf"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.1-设置预览.png",
+          "bytes": 69599,
+          "sha256": "01f9a43b0849abc0eb733796e8e3d19ee015977cededbfb5154c8016069bd385"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.1-默认标题.png",
+          "bytes": 212995,
+          "sha256": "9348c5f2a24213f2fdd4a18e0d1c4f446416f38fb779f1a90084d33727615896"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.1.bin",
+          "bytes": 8793457,
+          "sha256": "819b44eeac0b1401f514fcc5db5e5b66474731a5e71d7bd188abbba4f251012e"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.1.rpk",
+          "bytes": 8793457,
+          "sha256": "819b44eeac0b1401f514fcc5db5e5b66474731a5e71d7bd188abbba4f251012e"
+        }
+      ]
+    },
+    {
+      "tag": "v0.1.2",
+      "files": [
+        {
+          "name": "PARQUET-RW5-0.1.2-AnotherViewCG预览.png",
+          "bytes": 116000,
+          "sha256": "0f8415c6598e963f7912e2b796e259b67a0a5c2327dfcc7d040ce716366c245c"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.2-AnotherView背景预览.png",
+          "bytes": 104771,
+          "sha256": "064b82a78b2252bb6ed78b197e6469462a910d73251822efcf949b436c5d3489"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.2-SHA256.txt",
+          "bytes": 478,
+          "sha256": "f55431a394e61f201aee5407c2d7b6a7e544d56e3c9c7fac1ef5a9bd93a2bfff"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.2-安装说明.md",
+          "bytes": 6082,
+          "sha256": "c6c0a5bfcf20091ef8fa943fb272c1c1f2af08a4c5b5dc08684e28206dca894b"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.2-排版预览.png",
+          "bytes": 119506,
+          "sha256": "34658904f6184ad87bf74c6064a0829a8d7c949b1551d7816c3edf7232c7e5e9"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.2-检查报告.json",
+          "bytes": 8895,
+          "sha256": "c2e76fc2041c57d7a12bb4b17ad4f9e8690ef4647b98155d8db2596ba7f400ff"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.2-源码.zip",
+          "bytes": 12149383,
+          "sha256": "372119c81b088ec9dad90402d454de9fd8f125cd7b5838bf4615086d91f49187"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.2-爱花通话预览.png",
+          "bytes": 92325,
+          "sha256": "49825b77c54f7c917e82448041527163b08acfc2585c3e1ba63228b89e147572"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.2.bin",
+          "bytes": 9879441,
+          "sha256": "b489749eb5d2bb9921a7b7dfb1c02ab70d77fdab32a07fd572521968e8498144"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.2.rpk",
+          "bytes": 9879441,
+          "sha256": "b489749eb5d2bb9921a7b7dfb1c02ab70d77fdab32a07fd572521968e8498144"
+        }
+      ]
+    },
+    {
+      "tag": "v0.1.3",
+      "files": [
+        {
+          "name": "PARQUET-RW5-0.1.3-AnotherView预览.png",
+          "bytes": 132181,
+          "sha256": "17b8d0329721081505b6518582e9cb32c07db57ec7b0650616f54c23ef965f48"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.3-SHA256.txt",
+          "bytes": 478,
+          "sha256": "54c164f89eedd4edc4d3a73f3d8c04195159d576345a785f55e15c4db37811b9"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.3-安装说明.md",
+          "bytes": 6480,
+          "sha256": "d3b03a4b9ee32e4fe88649345f9dc5b0e52778edc39a71d29815a5dbae03a510"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.3-检查报告.json",
+          "bytes": 12647,
+          "sha256": "228b37483fa0115b359fb05fbdb848dc8233c8bcfa59ea3a47e8febe4666bfba"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.3-源码.zip",
+          "bytes": 12999793,
+          "sha256": "3444d01897efe2d806a095280b472eeb3eb9d880a5b4c7980f1d247dd185cd76"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.3-立绘对比.png",
+          "bytes": 340335,
+          "sha256": "5b8dda094007d6aceb84eb4088c4520d4dc43f2697779b16ac925d6974fc122b"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.3-立绘预览.png",
+          "bytes": 100047,
+          "sha256": "4070c9b26822bb76ff6de6f7b9abe62ef6191b8770274af5cc76ff2b8768e809"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.3-章节预览.png",
+          "bytes": 21148,
+          "sha256": "1e6dde4944ac008cc12c8a501564140c8d509616e1ab23d7797e220ec213b59e"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.3-菜单预览.png",
+          "bytes": 28982,
+          "sha256": "099b4a7439bba73e52880a95574fc07323b0ed3707e0277cd86a17b30719d7e5"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.3.bin",
+          "bytes": 9894209,
+          "sha256": "2da342809782e4eab4fce34a6e69b5d8e88085c6dd82137274997658e9726ee7"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.3.rpk",
+          "bytes": 9894209,
+          "sha256": "2da342809782e4eab4fce34a6e69b5d8e88085c6dd82137274997658e9726ee7"
+        }
+      ]
+    },
+    {
+      "tag": "v0.1.4",
+      "files": [
+        {
+          "name": "PARQUET-RW5-0.1.4-SHA256.txt",
+          "bytes": 478,
+          "sha256": "a988d27d2b25b8c8188d7eb8f88411174980e445b29c5e18c68374097ac493ee"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.4-双人预览.png",
+          "bytes": 125029,
+          "sha256": "8fba1ce0254348c51084c183038d60708a1811199b8eaa9b29e70b27e742577e"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.4-安装说明.md",
+          "bytes": 6744,
+          "sha256": "bfe9a5695e502118212f11b69a23c8b9c768ec8e3f30e8bebf11b5e3ec4fbf0f"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.4-服务生预览.png",
+          "bytes": 106028,
+          "sha256": "2a296bc08f8a3217505256cc902b021c506f9e31e58543c176cdd12cb8587dbb"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.4-检查报告.json",
+          "bytes": 13320,
+          "sha256": "ce85ee1eb9221ea0037e2bab2124aff05334ee2588f80560948cfb18433af034"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.4-源码.zip",
+          "bytes": 14257704,
+          "sha256": "4d70eb51421e2bbec959ccfcd2d184b601c4b34421578effb590b669aac19b71"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.4-爱花预览.png",
+          "bytes": 100572,
+          "sha256": "5fbc37b1e64b19b318eb3459654fed2c2919c6a6ff7226e36b9c99a83e2b49c1"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.4-脸部画质对比.png",
+          "bytes": 96744,
+          "sha256": "07bf4a9edcc9728a794c47b7feac79598b8bce2c882e51384e7521d71b16a382"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.4.bin",
+          "bytes": 10988401,
+          "sha256": "e21749c6740c7745d2ff75af9637731477dbc0b8865d03996a5663485af01ab3"
+        },
+        {
+          "name": "PARQUET-RW5-0.1.4.rpk",
+          "bytes": 10988401,
+          "sha256": "e21749c6740c7745d2ff75af9637731477dbc0b8865d03996a5663485af01ab3"
+        }
+      ]
+    }
+  ]
+}

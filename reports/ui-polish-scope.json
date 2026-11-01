@@ -1,6 +1,0 @@
-{
-  "behaviorScriptSha256": "e54a185242bbd505a943b8e2fd27b4cf1998553fbe924942ef36630343803dd4",
-  "behaviorPackageSha256": "dea81fbce90e28669d40b280dcff9484da1d3b6abde17bb740b60f0d94c16bec",
-  "finalPolish": "Move decorative header lines below subtitles and inset original title lettering away from the left hatch; no behavior-script change",
-  "scriptHashNewlineNormalization": "CRLF to LF"
-}

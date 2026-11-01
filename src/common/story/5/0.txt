@@ -1,1 +1,0 @@
-[{"op":"jumpScene","scene":6,"to":0}]

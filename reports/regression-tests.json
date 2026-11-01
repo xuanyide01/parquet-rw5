@@ -1,8 +1,0 @@
-{
-  "result": "passed",
-  "version": "0.1.5",
-  "tests": 31,
-  "passed": 31,
-  "failed": 0,
-  "command": "node --test tests/reader.test.cjs tests/auto-reader.test.cjs tests/title-background.test.cjs tests/scene-visuals.test.cjs tests/chapter-portrait.test.cjs tests/portrait-encoding.test.cjs"
-}
